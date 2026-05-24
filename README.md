@@ -16,4 +16,4 @@ OPNsense · Suricata IDS/IPS · Wazuh SIEM · TheHive · MISP · Cortex · Kali 
 [embed your topology diagram image here]
 
 ## 📄 Full Project Report
-[View Complete Report (PDF)](./Project_Report.pdf)
+[View Complete Report (PDF)](https://github.com/bot0024/soc-lab-opensoure/blob/main/Project%20Report.pdf)
